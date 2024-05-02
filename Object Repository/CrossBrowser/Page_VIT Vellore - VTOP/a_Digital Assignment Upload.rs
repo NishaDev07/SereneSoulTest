@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Digital Assignment Upload</name>
+   <tag></tag>
+   <elementGuidId>18cd8582-f127-46d7-8239-5a827c178833</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidePanel']/div/div/div[6]/div/a[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Digital Assignment Upload&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1e9b8f25-81e2-4328-88f6-5a3953ada62d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>examinations/StudentDA</value>
+      <webElementGuid>0a250468-e549-4ed7-9116-db0d1b283349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item menuFontStyle systemBtnMenu </value>
+      <webElementGuid>088e766a-5ac9-48c4-bfcd-13a459f6bb65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>e1cb1732-5731-474b-87f4-a2a03e999c5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    Digital Assignment Upload</value>
+      <webElementGuid>ff65728e-8ce4-4950-8767-610065b06800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidePanel&quot;)/div[@class=&quot;btn-toolbar mx-1&quot;]/div[@class=&quot;btn-group-vertical&quot;]/div[@class=&quot;btn-group dropend&quot;]/div[@class=&quot;dropdown-menu border-0 py-0 shadow-lg dropdownMenuBoxWidth text-nowrap SideBarMenuDropDown show&quot;]/a[@class=&quot;dropdown-item menuFontStyle systemBtnMenu&quot;]</value>
+      <webElementGuid>bc70d0cf-9a5f-4595-8279-6df16e334daf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidePanel']/div/div/div[6]/div/a[14]</value>
+      <webElementGuid>e07d1ce8-bd02-40fc-917c-074c0fed25c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Digital Assignment Upload']/parent::*</value>
+      <webElementGuid>e7ad2834-43fb-4f2d-8246-ab94726f4b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[32]</value>
+      <webElementGuid>d6db867b-6ce4-4382-8aa4-b1200c597f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[14]</value>
+      <webElementGuid>04dd30f1-dfe3-4323-acb1-1cee534eddb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '    Digital Assignment Upload' or . = '    Digital Assignment Upload')]</value>
+      <webElementGuid>3d3265bd-95a3-493b-afd7-a453dd61846c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

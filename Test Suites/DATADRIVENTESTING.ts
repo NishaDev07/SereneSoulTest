@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DATADRIVENTESTING</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>eac476b0-da95-4e15-93fb-a93f90fdedaa</testSuiteGuid>
+   <testCaseLink>
+      <guid>954bec3a-e403-4e0e-b505-b4fc7f16f7f5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_01Signin</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d1cb1791-8df1-4a8c-adaa-e62aca9ce904</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CredentialsExcelFile</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d1cb1791-8df1-4a8c-adaa-e62aca9ce904</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>d02a71bc-5eee-4573-b10c-365c448f14a0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d1cb1791-8df1-4a8c-adaa-e62aca9ce904</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>fe42fe14-08df-4140-81b0-80535fe9c3c5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
